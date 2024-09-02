@@ -6,6 +6,7 @@ authors: [Shakespeare]
 description: An advanced and easy discord-minecraft plugin!
 website: github.com/ishakespearee/advanceddiscord
 commands:
+  usage:
   adabout:
   advanceddiscordabout:
   discord:

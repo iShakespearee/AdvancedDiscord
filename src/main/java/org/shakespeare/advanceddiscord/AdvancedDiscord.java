@@ -13,6 +13,7 @@ public final class AdvancedDiscord extends JavaPlugin {
 
         getCommand("advanceddiscordabout").setExecutor(new AdvancedDiscordAboutCommand());
         getCommand("adabout").setExecutor(new AdvancedDiscordAboutCommand());
+        getCommand("usage").setExecutor(new UsageCommand());
 
     }
 }
