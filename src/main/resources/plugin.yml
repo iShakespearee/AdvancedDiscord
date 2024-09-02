@@ -1,0 +1,13 @@
+name: AdvancedDiscord
+version: '${project.version}'
+main: org.shakespeare.advanceddiscord.AdvancedDiscord
+api-version: '1.21'
+authors: [Shakespeare]
+description: An advanced and easy discord-minecraft plugin!
+website: github.com/ishakespearee/advanceddiscord
+commands:
+  adabout:
+  advanceddiscordabout:
+  discord:
+  advanceddiscord:
+  ad:
